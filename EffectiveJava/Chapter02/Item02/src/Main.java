@@ -1,7 +1,7 @@
-package Chapter02.item02.src;
+package Chapter02.Item02.src;
 
-import Chapter02.item02.src.NyPizza.Size;
-import Chapter02.item02.src.Pizza.Topping;
+import Chapter02.Item02.src.NyPizza.Size;
+import Chapter02.Item02.src.Pizza.Topping;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package Chapter02.item02.src;
+package Chapter02.Item02.src;
 
 import java.util.EnumSet;
 import java.util.Objects;

@@ -1,4 +1,4 @@
-package Chapter02.item02.src;
+package Chapter02.Item02.src;
 
 public class BuilderPattern {
 

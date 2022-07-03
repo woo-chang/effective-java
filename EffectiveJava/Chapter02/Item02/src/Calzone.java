@@ -1,6 +1,4 @@
-package Chapter02.item02.src;
-
-import Chapter02.item02.src.Pizza.Builder;
+package Chapter02.Item02.src;
 
 public class Calzone extends Pizza {
   private final boolean sauceInside;
