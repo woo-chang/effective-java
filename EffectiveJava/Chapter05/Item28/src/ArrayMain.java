@@ -1,4 +1,4 @@
-package Chapter04.Item28.src;
+package Chapter05.Item28.src;
 
 public class ArrayMain {
 
